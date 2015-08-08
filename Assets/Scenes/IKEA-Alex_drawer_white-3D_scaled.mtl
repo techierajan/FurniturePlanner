@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material__26
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.090000 0.090000 0.090000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd maps\tekstur.jpg
+map_Ka maps\\tekstur.jpg
+
+newmtl wire_177028149
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 0.087840 0.087840 0.087840
+Ks 0.350000 0.350000 0.350000
+Ni 1.500000
+d 1.000000
+illum 2
